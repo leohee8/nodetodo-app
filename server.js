@@ -6,7 +6,7 @@ const
 	app=exp(),
 	_port=process.env.PORT||8000,
 	_collection="Items",
-	conn="mongodb+srv://dbuser:wo11d126@asia-app.jdnir.mongodb.net/TodoApp?retryWrites=true&w=majority"
+	conn="mongodb+srv://dbuser:******@asia-app.jdnir.mongodb.net/*****?retryWrites=true&w=majority"
 	// conn="mongodb://localhost/TodoApp"
 let db
 
