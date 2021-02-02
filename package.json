@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "2do",
   "version": "1.0.0",
   "description": "Todo App built on Node.js",
   "main": "server.js",
